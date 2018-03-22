@@ -4,3 +4,4 @@ Gitの練習をする
 .git commit
 dhしdh
 .git status
+.git diff
